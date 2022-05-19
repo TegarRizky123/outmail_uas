@@ -1,0 +1,19 @@
+{
+  "name": "OutMail App",
+  "short_name": "OutMail App PWA",
+  "description": "OutMail App PWA",
+  "icons": [
+    {
+      "src": "../simpson.jpg",
+      "sizes": "256x256",
+      "type": "image/jpg",
+      "purpose" : "any"
+    }
+  ],
+  "start_url": "https://is-mail.herokuapp.com/index.php",
+  "scope" : "https://is-mail.herokuapp.com/index.php",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "theme_color": "#fff",
+  "background_color": "#fff"
+}
