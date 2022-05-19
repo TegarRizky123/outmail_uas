@@ -1,6 +1,6 @@
 ## OutMail App
 
-OutMail App Merupakan aplikasi CRUD sederhana berbasis web  yang dibuat menggunakan HTML, CSS, PHP dan JavaScript, adapun beberapa fitur dari Mail App antara lain :
+OutMail App Merupakan aplikasi CRUD sederhana berbasis web  yang dibuat menggunakan HTML, CSS, PHP dan JavaScript, adapun beberapa fitur dari OutMail App antara lain :
 
 * Mampu mengimplementasikan CRUD
 * Search
