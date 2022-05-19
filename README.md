@@ -14,6 +14,6 @@ Komponen atau Framework tambahan  untuk membangun mail app antara lain :
 * GSAP
 * Datatable
 
-Anda bisa mengakses aplikasi mail app dengan mengeklik tautan dibawah ini :
+Anda bisa mengakses aplikasi OutMail app dengan mengeklik tautan dibawah ini :
 
 [OutMail App](https://outmaill.herokuapp.com/)
